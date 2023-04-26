@@ -45,7 +45,7 @@ const Hellofoodotp = (props) => {
             </TouchableOpacity>
 
             <TouchableOpacity style={{ width: '70%', backgroundColor: 'blue', padding: 20, borderRadius: 30, marginLeft: 60, marginTop: 50 }} onPress={() => { otppi() }}>
-                <Text style={{ color: 'white', fontSize: 25, textAlign: 'center', }}>Verfiy</Text>
+                <Text style={{ color: 'white', fontSize: 25, textAlign: 'center', }}>   Verfiy</Text>
             </TouchableOpacity>
         </View>
     );
